@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "botbuilder": "^4.3.4",
-    "botbuilder-ai": "^4.3.4",
+    "botbuilder-ai": "^4.23.3",
     "botbuilder-dialogs": "^4.3.4",
     "express": "^4.16.4"
   }
